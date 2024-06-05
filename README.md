@@ -8,7 +8,7 @@ It involves creating a microcontroller-based temperature monitoring system with 
 - **Temperature Display**: Displays the current temperature on a 7-segment display with the ability to switch between Celsius and Fahrenheit.
 - **Temperature Alarm**: An alarm system that triggers when the temperature exceeds 40°C.
 - **Temperature Range Indication**: LEDs indicate different temperature ranges with varying brightness.
-- **Mode Switching**: Toggle between displaying temperature and temperature range.
+- **Mode Switching**: Toggle between displaying temperature ( Celsius and Fahrenheit ) and temperature range.
 
 ## Components
 
