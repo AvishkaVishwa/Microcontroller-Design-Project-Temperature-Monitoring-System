@@ -13,7 +13,7 @@ It involves creating a microcontroller-based temperature monitoring system with 
 ## Components
 
 - ATmega328P Microcontroller
-- MAX7219CNG
+- MAX7219CNG Display driver
 - 4-Digit 7-segment displays
 - LEDs
 - Push buttons
