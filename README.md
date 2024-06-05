@@ -40,5 +40,4 @@ Design-Project/
 ├── simulations/         # Simulation files
 ├── datasheets/          # datasheets files
 ├── docs/                # Documentation files
-├── LICENSE              # License file
 └── README.md            # Project overview and instructions
