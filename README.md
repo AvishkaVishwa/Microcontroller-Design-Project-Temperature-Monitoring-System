@@ -28,6 +28,7 @@ It involves creating a microcontroller-based temperature monitoring system with 
    - The current temperature is displayed on the 7-segment display.
    - The alarm LED blinks if the temperature exceeds 40°C and can be acknowledged with the acknowledgment button.
    - LEDs indicate the current temperature range.
+<img src="hardware simulation/1717617684600.jpg">   
 <img src="hardware simulation/1717617684541.jpg">
 ## File Structure
 
