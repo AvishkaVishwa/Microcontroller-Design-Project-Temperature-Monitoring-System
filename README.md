@@ -28,6 +28,7 @@ It involves creating a microcontroller-based temperature monitoring system with 
    - The current temperature is displayed on the 7-segment display.
    - The alarm LED blinks if the temperature exceeds 40°C and can be acknowledged with the acknowledgment button.
    - LEDs indicate the current temperature range.
+![Uploading 1717617684600.jpg…]()
 
 ## File Structure
 
@@ -37,6 +38,7 @@ Temperature-Monitor-Project/
 ├── include/             # Header files
 ├── hardware/            # Hardware design files
 ├── simulations/         # Simulation files
+├── datasheets/          # datasheets files
 ├── docs/                # Documentation files
 ├── LICENSE              # License file
 └── README.md            # Project overview and instructions
