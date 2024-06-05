@@ -33,7 +33,7 @@ It involves creating a microcontroller-based temperature monitoring system with 
 ## File Structure
 
 ```plaintext
-Temperature-Monitor-Project/
+Design-Project/
 ├── src/                 # Source code files
 ├── include/             # Header files
 ├── hardware/            # Hardware design files
