@@ -1,4 +1,4 @@
-JJ# Microcontroller-Design-Project-
+# Microcontroller-Design-Project-
 
 This project is part of the IA 2209 - Microcontroller Laboratory course. 
 It involves creating a microcontroller-based temperature monitoring system with various features including temperature display, alarm, and range indication using LEDs.
