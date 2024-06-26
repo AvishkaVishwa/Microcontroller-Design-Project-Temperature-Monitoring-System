@@ -30,14 +30,4 @@ It involves creating a microcontroller-based temperature monitoring system with 
    - LEDs indicate the current temperature range.
 <img src="hardware simulation/1717617684600.jpg">   
 <img src="hardware simulation/1717617684541.jpg">
-## File Structure
 
-```plaintext
-Design-Project/
-├── src/                 # Source code files
-├── include/             # Header files
-├── hardware/            # Hardware design files
-├── simulations/         # Simulation files
-├── datasheets/          # datasheets files
-├── docs/                # Documentation files
-└── README.md            # Project overview and instructions
