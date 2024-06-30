@@ -30,7 +30,6 @@ It involves creating a microcontroller-based temperature monitoring system with 
    - LEDs indicate the current temperature range.
 <img src="hardware simulation/1717617684600.jpg">   
 <img src="hardware simulation/1717617684541.jpg">
-<img src="hardware simulation/Screenshot 2024-06-30 004228.png">
 <img src="hardware simulation/schematic.png">
 <img src="hardware simulation/1.png">
 <img src="hardware simulation/2.png">
