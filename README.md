@@ -33,5 +33,5 @@ It involves creating a microcontroller-based temperature monitoring system with 
 <img src="hardware simulation/schematic.png">
 <img src="hardware simulation/1.png">
 <img src="hardware simulation/2.png">
-<img src="hardware simulation/3.png">
+<img src="hardware simulation/5.png">
 <img src="hardware simulation/4.png">
