@@ -10,8 +10,8 @@ It involves creating a microcontroller-based temperature monitoring system with 
 - **Temperature Range Indication**: LEDs indicate different temperature ranges with varying brightness.
 - **Mode Switching**: Toggle between displaying temperature (Celsius and Fahrenheit) and temperature range.
 <img src ="hardware simulation/1719309044267.jpg">
-## Components
 
+## Components
 - ATmega328P Microcontroller
 - MAX7219CNG Display driver
 - 4-Digit 7-segment displays
