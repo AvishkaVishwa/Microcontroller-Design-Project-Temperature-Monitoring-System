@@ -22,6 +22,7 @@ It involves creating a microcontroller-based temperature monitoring system with 
 https://github.com/user-attachments/assets/188e2a22-0e74-4096-baf8-a73c14bb029d
 
 ## Hardware Testing
+https://github.com/user-attachments/assets/ba68c1e6-b078-402f-8ae6-b2f3dc63eebe
 
 ## Usage
 
