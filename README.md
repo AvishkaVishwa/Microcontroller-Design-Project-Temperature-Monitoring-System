@@ -18,6 +18,11 @@ It involves creating a microcontroller-based temperature monitoring system with 
 - LEDs
 - Push buttons
 - Resistors, capacitors, and other supporting components
+## Simulation on Proteus
+
+https://github.com/user-attachments/assets/188e2a22-0e74-4096-baf8-a73c14bb029d
+
+
 
 ## Usage
 
